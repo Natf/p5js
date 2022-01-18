@@ -7,3 +7,5 @@ Each cell stores a list of all of its neighbors. Each draw cycle each cell will 
 1. Any live cell with two or three live neighbours survives.
 2. Any dead cell with three live neighbours becomes a live cell.
 3. All other live cells die in the next generation. Similarly, all other dead cells stay dead.
+
+![Preview of game of life running](game-of-life.gif)
