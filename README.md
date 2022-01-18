@@ -5,7 +5,7 @@ A repository of all my p5js projects
  - [Simple falling sand game](/Sand/)
  - [Conway's Game of Life](/Game_of_Life/)
  - [Tower's of Hanoi Game](/Towers_of_Hanoi/)
- - [A small fireworks viewer](/Fireworks/)
+ - [Fireworks Viewer](/Fireworks/)
  - [Random Point with Quadtree](/Quad_Tree/) from [The Coding Train's Quadtree challenge](https://www.youtube.com/watch?v=OJxEcs0w_kE)
 
 ## 538 - The Riddler Solutions
