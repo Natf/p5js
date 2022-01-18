@@ -3,6 +3,8 @@
 A simple [faling sand game](https://en.wikipedia.org/wiki/Falling-sand_game).
 The user can click anywhere in the window to create sand that will fall and then create pleasant looking piles of sand.
 
+![Preview of falling sand game](falling-sand-small.gif)
+
 The game will create a point for each pixel and then calculate the neighbors for each of these points on setup. When running the game will loop through each point. An active "sand" point will then check if there is a free space below it and move down if there is. It will randomly choose the bottom right or bottom left and try to move there.
 
 From  /Sand/MapPoint.js 
